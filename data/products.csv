@@ -1,0 +1,6 @@
+name,category,price,description,image_url,product_url
+iPhone 14,มือถือ,29900,"กล้องหลัง 12MP, ชิป A15 Bionic, จอ 6.1 นิ้ว","https://example.com/iphone14.jpg","https://example.com/iphone14"
+Samsung Galaxy S23,มือถือ,27900,"กล้องหลัง 50MP, ชิป Snapdragon 8 Gen 2, จอ 6.1 นิ้ว","https://example.com/galaxys23.jpg","https://example.com/galaxys23"
+Xiaomi 12T Pro,มือถือ,18900,"กล้องหลัง 200MP, ชิป Snapdragon 8+ Gen 1, จอ 6.67 นิ้ว","https://example.com/xiaomi12tpro.jpg","https://example.com/xiaomi12tpro"
+OPPO Reno8,มือถือ,16900,"กล้องหลัง 50MP, ชิป Dimensity 1300, จอ 6.4 นิ้ว","https://example.com/opporeno8.jpg","https://example.com/opporeno8"
+Vivo V27 5G,มือถือ,12999,"กล้องหลัง 64MP, ชิป Dimensity 7200, จอ 6.78 นิ้ว","https://example.com/vivov27.jpg","https://example.com/vivov27"
